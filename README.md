@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hi, I'm Patrick Welch
 
-<!--
-**patrick-welch/patrick-welch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a working **Microsoft .NET Architect and Line-of-Business Developer**, and a part-time **Computer Science student at CSU**, graduating in **2027** (maybe sooner). I'm currently focused on **FPGA development**, **embedded systems**, **digital logic**, and **ASIC design**.
 
-Here are some ideas to get you started:
+My projects combine HDL, embedded C, and RISC-V architecture — with a strong emphasis on **retro computing** and **open-source hardware**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Areas of Focus
+
+### 🧠 FPGA & HDL Design
+- Developing HDL projects in **Vivado** using the **Basys 3**
+- Creating custom RISC-V SoCs using **PicoRV32** and **VexRiscv**
+- Using **Verilator** and **VS Code** for simulation and testbench development
+- Exploring **HLS** with **Vitis HLS**, following  
+  _**Guide to Computer Processor Architecture: A RISC-V Approach with High-Level Synthesis**_ by Bernard Goossens (Springer)
+
+### 💻 Embedded & RISC-V Systems
+- Building RISC-V firmware in **C** for both **softcores** and **native hardware**
+- Using **Ubuntu VMs** configured for cross-compilation from Goossens’ book  
+  - Final project: A RISC-V softcore SoC on the **Basys 3**  
+  - Contributing updated build scripts to the author’s GitHub repo
+- Running **Debian on VisionFive 2**, using it as a target for cross-compiled ELF binaries
+
+### 🧬 ASIC & Digital Design
+- Learning ASIC design with **OpenLane** and the **Sky130 PDK**
+- Targeting a **TinyTapeout** or **Efabless shuttle** submission before graduation
+- Synthesizing minimal RTL blocks like **UARTs**, **ALUs**, and **FSMs**
+
+### 🕹️ Retro Hardware
+- Exploring **Atari 68K machines**: ST, Mega ST, STe, TT, and Falcon — both the actual hardware and HDL-based reimplementations
+- Reverse engineering **legacy logic chips** (GALs, GLUE logic, MMU, etc.) and prototyping HDL recreations
+- Studying HDL reimplementation efforts such as **Suska**, especially now that **Falcon-compatible cores** are emerging
+- Keeping an eye on PCB remake boards like the **Exxos H5** (Atari ST revival) for possible hardware builds
+- *(Known as **MEX68KECB** on Atari forums)*
+
+### 🔌 Electronics
+- I have a **Hewlett-Packard and Agilent test equipment acquisition problem 😅**
+  - I do my best to **repair and preserve** the legacy of Bill Hewlett and Dave Packard
+  - These instruments are **art-pieces** to me — worthy of restoration and respect
+- Set up as a tech that can solder his little heart out!
+
+---
+
+## 🛠️ Toolchain & Hardware
+
+- 💻 **Tools**: Vivado, Visual Studio, VS Code, Verilator, GTKWave, OpenLane, Vitis HLS
+- 🧱 **Boards on Hand**:
+  - Digilent **Basys 3** (Artix-7 FPGA)
+  - Microchip **PolarFire SoC Discovery Kit** (RISC-V core on a locked FPGA fabric)
+  - StarFive **VisionFive 2** (RISC-V SBC, Debian)
+  - Terasic **DE10-Nano** (MiSTer-only setup)
+- 📦 **Open Source Flows** (planned for Lattice development): `yosys`, `nextpnr`, `openFPGALoader`
+
+---
+
+## 🧑‍💻 Repositories You’ll Find Here (coming soon)
+
+- [`fpga-hdl-lab`](https://github.com/patrick-welch/fpga-hdl-lab) — HDL projects in Vivado (UARTs, SPI, SoCs)  
+- [`riscv-dev-lab`](https://github.com/patrick-welch/riscv-dev-lab) — Firmware and toolchains for softcore + native RISC-V  
+- [`lattice-logic-lab`](https://github.com/patrick-welch/lattice-logic-lab) — Lattice GAL/CPLD/FPLA experiments (retro logic focus)  
+- [`atari-silliness-and-nonsense`](https://github.com/patrick-welch/atari-silliness-and-nonsense) — A joyful mess of Atari 68K hardware reverse engineering, HDL recreations, and vintage weirdness  
+- [`asic-lab`](https://github.com/patrick-welch/asic-lab) — Design and preparation for OpenLane / TinyTapeout projects
+
+---
+
+## ⚡ Electron Pushers
+
+I publish my hardware projects under the **Electron Pushers** identity — a retro-inspired, Gen X-rooted banner for experimental digital design, analog angst, and modern tech that respects the signal.
+
+🧰 Built on:
+- A love for **retro computing** (Atari ST, Falcon, Amiga)
+- A passion for **FPGA & ASIC design**
+- A belief that **hardware is art**, and **open tools are power**
+
+⚛️ *Electron Pushers: Let the current flow.*
+---
+
+## 📫 Let's Connect
+
+If you're interested in:
+- Collaborating on **open hardware projects**
+- Contributing to **retro computing platforms**
+- Learning together about **FPGA and ASIC design**
+
+Feel free to reach out.
