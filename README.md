@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Patrick Welch
 
-I'm a working **Microsoft .NET Architect and Line-of-Business Developer**, and a part-time **Computer Science student at CSU**, graduating in **2027** (maybe sooner). I'm currently focused on **FPGA development**, **embedded systems**, **digital logic**, and **ASIC design**.
+I'm a working **Microsoft .NET Architect and Line-of-Business Developer**, and a part-time **Computer Science student at CSU**, graduating in **2027** (maybe sooner). I'm currently focused on **FPGA development**, **embedded systems**, **digital logic**, and open hardware — with a stretch goal of exploring **ASIC design**.
 
-My projects combine HDL, embedded C, and RISC-V architecture — with a strong emphasis on **retro computing** and **open-source hardware**.
+My projects combine HDL, embedded C, and RISC-V architecture — with a strong emphasis on **retro computing**, **simulation**, and **real-world prototyping**.
 
 ---
 
@@ -22,23 +22,25 @@ My projects combine HDL, embedded C, and RISC-V architecture — with a strong e
   - Contributing updated build scripts to the author’s GitHub repo
 - Running **Debian on VisionFive 2**, using it as a target for cross-compiled ELF binaries
 
-### 🧬 ASIC & Digital Design
-- Learning ASIC design with **OpenLane** and the **Sky130 PDK**
-- Targeting a **TinyTapeout** or **Efabless shuttle** submission before graduation
-- Synthesizing minimal RTL blocks like **UARTs**, **ALUs**, and **FSMs**
+### 🧬 ASIC Design (Stretch Goal)
+- Exploring **OpenLane**, **Sky130**, and **TinyTapeout** to better understand ASIC toolchains
+- Synthesizing RTL blocks like UARTs, ALUs, and FSMs
+- While not targeting physical design roles, these projects deepen my knowledge and position me for:
+  - FPGA/RTL roles
+  - Embedded validation
+  - Pre-silicon testing and SoC testbench development
 
 ### 🕹️ Retro Hardware
 - Exploring **Atari 68K machines**: ST, Mega ST, STe, TT, and Falcon — both the actual hardware and HDL-based reimplementations
 - Reverse engineering **legacy logic chips** (GALs, GLUE logic, MMU, etc.) and prototyping HDL recreations
 - Studying HDL reimplementation efforts such as **Suska**, especially now that **Falcon-compatible cores** are emerging
-- Keeping an eye on PCB remake boards like the **Exxos H5** (Atari ST revival) for possible hardware builds
+- Watching PCB remake boards like the **Exxos H5** (Atari ST revival) for possible builds
 - *(Known as **MEX68KECB** on Atari forums)*
 
 ### 🔌 Electronics
 - I have a **Hewlett-Packard and Agilent test equipment acquisition problem 😅**
-  - I do my best to **repair and preserve** the legacy of Bill Hewlett and Dave Packard
-  - These instruments are **art-pieces** to me — worthy of restoration and respect
-- Set up as a tech that can solder his little heart out!
+- I do my best to **repair and preserve** the legacy of Bill Hewlett and Dave Packard
+- These instruments are **art-pieces** to me — worthy of restoration and respect
 
 ---
 
@@ -68,12 +70,13 @@ My projects combine HDL, embedded C, and RISC-V architecture — with a strong e
 
 I publish my hardware projects under the **Electron Pushers** identity — a retro-inspired, Gen X-rooted banner for experimental digital design, analog angst, and modern tech that respects the signal.
 
+> ⚛️ *Electron Pushers: Let the current flow.*
+
 🧰 Built on:
 - A love for **retro computing** (Atari ST, Falcon, Amiga)
 - A passion for **FPGA & ASIC design**
 - A belief that **hardware is art**, and **open tools are power**
 
-⚛️ *Electron Pushers: Let the current flow.*
 ---
 
 ## 📫 Let's Connect
@@ -84,3 +87,5 @@ If you're interested in:
 - Learning together about **FPGA and ASIC design**
 
 Feel free to reach out.
+
+---
