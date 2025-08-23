@@ -58,7 +58,7 @@ My projects combine HDL, embedded C, and RISC-V architecture — with a strong e
 
 ## 🧑‍💻 Repositories You’ll Find Here
 
-- [`soft-mmu-68k`](https://github.com/patrick-welch/soft-mmu-68k) — Open-source Motorola 68k-compatible PMMU (68851/68030-style) in Verilog, FPGA-ready, tutorialized in lessons, capable of driving physical DRAM
+- [`soft-mmu-68k`](https://github.com/patrick-welch/soft-mmu-68k) — WIP Open-source Motorola 68k-compatible PMMU (68851/68030-style) in Verilog, with the goal of eventually driving physical DRAM
 
 ---
 
