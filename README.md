@@ -56,13 +56,9 @@ My projects combine HDL, embedded C, and RISC-V architecture — with a strong e
 
 ---
 
-## 🧑‍💻 Repositories You’ll Find Here (coming soon)
+## 🧑‍💻 Repositories You’ll Find Here
 
-- [`fpga-hdl-lab`](https://github.com/patrick-welch/fpga-hdl-lab) — HDL projects in Vivado (UARTs, SPI, SoCs)  
-- [`riscv-dev-lab`](https://github.com/patrick-welch/riscv-dev-lab) — Firmware and toolchains for softcore + native RISC-V  
-- [`lattice-logic-lab`](https://github.com/patrick-welch/lattice-logic-lab) — Lattice GAL/CPLD/FPLA experiments (retro logic focus)  
-- [`atari-silliness-and-nonsense`](https://github.com/patrick-welch/atari-silliness-and-nonsense) — A joyful mess of Atari 68K hardware reverse engineering, HDL recreations, and vintage weirdness  
-- [`asic-lab`](https://github.com/patrick-welch/asic-lab) — Design and preparation for OpenLane / TinyTapeout projects
+- [`soft-mmu-68k`](https://github.com/patrick-welch/soft-mmu-68k) — Open-source Motorola 68k-compatible PMMU (68851/68030-style) in Verilog, FPGA-ready, tutorialized in lessons, capable of driving physical DRAM
 
 ---
 
