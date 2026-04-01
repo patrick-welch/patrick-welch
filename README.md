@@ -34,7 +34,7 @@ My goal is to pivot from line-of-business software into work closer to physical 
 - Especially interested in practical computing for instrumentation, control, and physical systems
 
 ### ASIC Toolchains (Exploratory)
-- Exploring **OpenLane**, **Sky130**, and **TinyTapeout**
+- Exploring **OpenLane**, **Sky130**
 - Using simple RTL blocks and small designs to better understand synthesis, flows, and pre-silicon thinking
 - Not targeting physical design specialization directly, but using these tools to deepen RTL and system-level engineering skills
 
