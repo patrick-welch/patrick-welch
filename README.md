@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Welch
 
-I'm a software engineer moving deeper into embedded systems, FPGA/RTL design, hardware verification, and computer architecture.
+I'm an experienced software engineer moving deeper into embedded systems, FPGA/RTL design, hardware verification, and computer architecture.
 
 I'm currently completing a **B.S. in Computer Science at Colorado State University** while building a public portfolio around machine-near systems: SystemVerilog, FPGA workflows, RISC-V platforms, simulation, test automation, and hardware/software validation.
 
@@ -18,7 +18,7 @@ My long-term interest is the boundary between software and hardware: how systems
 * simulation-first verification and test automation
 * MATLAB-supported modeling and analysis
 * AI-assisted engineering workflows with source control, reviews, and reproducible tests
-* legacy architecture reimplementation as a serious computer-architecture exercise
+* historical architecture reimplementation as a serious computer-architecture exercise
 
 ---
 
@@ -36,7 +36,7 @@ The goal is not nostalgia for its own sake. The goal is to use a historically im
 
 ## Tools and Platforms
 
-### Languages / HDL
+### Languages, HDL, and Modeling
 
 * C#
 * C / C++
@@ -63,7 +63,7 @@ The goal is not nostalgia for its own sake. The goal is to use a historically im
 
 ## Professional Direction
 
-I'm building toward work at the hardware/software boundary: embedded platforms, firmware, FPGA workflows, RTL verification, EDA tooling, system integration, instrumentation, and practical engineering automation.
+I'm focused on work at the hardware/software boundary: embedded platforms, firmware, FPGA workflows, RTL verification, EDA tooling, system integration, instrumentation, and practical engineering automation.
 
 The thread connecting the work is simple:
 
